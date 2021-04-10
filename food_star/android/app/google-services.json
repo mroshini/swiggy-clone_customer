@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1059755749809",
+    "firebase_url": "https://foodstar-fce51.firebaseio.com",
+    "project_id": "foodstar",
+    "storage_bucket": "foodstar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059755749809:android:f24bd2867e2743e844cd90",
+        "android_client_info": {
+          "package_name": "com.abservetech.foodstar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059755749809-gvfiga2ffejn76j67naea3o9n40a72fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcOYnpAylZwOj5sU5218FXl84BVr67yGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059755749809-gvfiga2ffejn76j67naea3o9n40a72fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
